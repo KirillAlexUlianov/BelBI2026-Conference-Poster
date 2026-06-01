@@ -15,7 +15,7 @@ K. Ulianov [1], M. Molodova [1], D. Zagirova [1,2], K. Morozov [1], P. Morozova 
 ### PDF version
 [Download poster](poster.pdf)
 ## Figure descriptions
-###List of abbreviations
+### List of abbreviations
 **HC** - Healthy Control (Neurotypical donors)  
 **SZ** - Schizophrenia  
 **y** - Young  
