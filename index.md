@@ -16,10 +16,10 @@ K. Ulianov [1], M. Molodova [1], D. Zagirova [1,2], K. Morozov [1], P. Morozova 
 [Download poster](poster.pdf)
 ## Figure descriptions
 ###List of abbreviations
-**HC** - Healthy Control (Neurotypical donors)
-**SZ** - Schizophrenia
-**y** - Young
-**o** - Old
+**HC** - Healthy Control (Neurotypical donors)  
+**SZ** - Schizophrenia  
+**y** - Young  
+**o** - Old  
 ### Figure 1. Experimental design.
 **A-B.** Characteristics of diagnostic cohorts: age and sex (A), polygenic risk score (B).  
 **C.** Anatomical localization of the analyzed brain region, experimental procedure and the design of this study.  
