@@ -1,5 +1,7 @@
 # Long-range chromatin interaction dynamics and molecular aging signatures in schizophrenia
 K. Ulianov [1], M. Molodova [1], D. Zagirova [1,2], K. Morozov [1], P. Morozova [3], O. Efimova [4], S. Ulianov [5], S. Razin [5], P. Khaitovich [4], E. Khrameeva [1]  
+
+
 1) Center for Bio- and Medical Technologies, Skoltech, Moscow, Russia  
 2) Institute for Information Transmission Problems (the Kharkevich Institute), Russian Academy of Sciences, Moscow, Russia  
 3) Moscow Institute of Psychoanalysis, Moscow, Russia  
@@ -13,6 +15,11 @@ K. Ulianov [1], M. Molodova [1], D. Zagirova [1,2], K. Morozov [1], P. Morozova 
 ### PDF version
 [Download poster](poster.pdf)
 ## Figure descriptions
+###List of abbreviations
+**HC** - Healthy Control (Neurotypical donors)
+**SZ** - Schizophrenia
+**y** - Young
+**o** - Old
 ### Figure 1. Experimental design.
 **A-B.** Characteristics of diagnostic cohorts: age and sex (A), polygenic risk score (B).  
 **C.** Anatomical localization of the analyzed brain region, experimental procedure and the design of this study.  
